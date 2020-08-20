@@ -1,7 +1,5 @@
 ## Hey there, I'm Chidiebere
 
-a passionate self-taught Full-stack developer from Nigeria 🚀.
-
 ### About Me
 
 - 🚀 &nbsp; A passionate self-taught Full-stack developer from Nigeria 🚀
