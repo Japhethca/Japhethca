@@ -23,4 +23,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japhethca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-⭐️ From [Chidiebere](https://github.com/Japhethca)
+### Connect with Me
+
+<p>
+<a href="https://www.chidex.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.chidex.dev-blue?style=rounded-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/chidiebere-anyigor-02515a119/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chidiebere%20Anyigor-blue?style=rounded-square&logo=linkedin"></a>
+<a href="mailto:chidiebere.anyigor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-chidiebere.anyigor@gmail.com-blue?style=rounded-square&logo=gmail"></a>
+</p>
