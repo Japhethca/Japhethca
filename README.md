@@ -10,9 +10,9 @@
 ### 🛠 Languages and Tools
 
 - 💻 &nbsp; Python | Go | Node.Js | Elixir (learning)
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Vue (learning)
+- 🌐 &nbsp; HTML | CSS | Sass | JavaScript | Bootstrap | ReactJS | Gatsby | Vue (learning)
 - 🛢 &nbsp; Postgres | MongoDB
-- 🔧 &nbsp; Git | Markdown | VScode | Pycharm | Linux
+- 🔧 &nbsp; Git | Markdown | VScode | Pycharm | Linux | Graphql
 - 🖥 &nbsp; Figma
 
 ---
